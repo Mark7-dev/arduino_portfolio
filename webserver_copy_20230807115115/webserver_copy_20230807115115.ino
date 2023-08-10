@@ -20,7 +20,7 @@ void loop() {
   // color code #00C9CC (R = 0,   G = 201, B = 204)
   setColor(0, 201, 204);
 
-  delay(1000); // keep the color 1 second
+  delay(100); // keep the color 1 second
 
   // color code #F7788A (R = 247, G = 120, B = 138)
   setColor(247, 120, 138);
