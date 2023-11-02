@@ -44,8 +44,4 @@ This code allows you to control the GPIO pins as follows:
 
 You can customize the GPIO pins and their behaviour by modifying the code to suit your project's requirements.
 
-## License
 
-This code is provided under the [MIT License](LICENSE), allowing you to use and modify it for your own projects. Feel free to fork, contribute, and build upon it as needed.
-
-Please note that this code example is for educational purposes and basic IoT projects. Ensure proper security measures and access controls if you plan to use it in a production environment.
