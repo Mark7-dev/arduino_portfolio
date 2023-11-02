@@ -21,8 +21,8 @@ void loop() {
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid = "Telstra616345";
-const char* password = "jq92mnfwc8";
+const char* ssid = "";
+const char* password = "";
 
 // Set web server port number to 80
 WiFiServer server(80);
